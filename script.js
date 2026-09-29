@@ -12,5 +12,7 @@ function discount() {
 
 
 
+    }else {
+        alert(" السعر كما هو " + price)
     }
 }
